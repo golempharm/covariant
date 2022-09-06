@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-import pandas_bokeh
-from bokeh.plotting import figure
-from bokeh.io import output_notebook, show
-from bokeh.models import ColumnDataSource
+#import pandas_bokeh
+#from bokeh.plotting import figure
+#from bokeh.io import output_notebook, show
+#from bokeh.models import ColumnDataSource
 
 #st.title('Variant analysis')
 st.write("[Go to main](https://piotrkarabowicz.github.io/variantbase/)")
