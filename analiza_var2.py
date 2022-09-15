@@ -11,7 +11,7 @@ import altair as alt
 st.write("[Go to main](https://pkarabowicz.wixsite.com/golempharm)")
 st.markdown("<h1 style='text-align: center; color: black;'>Variant counter</h1>", unsafe_allow_html=True)
 st.write('')
-#st.write('See, how to use the analyzer:')
+st.write('See, how to use the analyzer:')
 st.video("./counter.mp4")
 st.write('')
 
